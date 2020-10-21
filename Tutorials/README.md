@@ -7,7 +7,7 @@ This project is based on the first project in the famous book : *Hands-On Machin
 This project allows me to do my first end-to-end Machine Learning (ML) project. 
 
 You can find all the data used for the project in the folder [datasets/housing](https://github.com/BenDamour/Portfolio/tree/master/Tutorials/datasets/housing). 
-The project's code is in the corresponding Jupyter Notebook called **_Housing_Corporation.ipynb_** click here to see the [jupyter notebook project](https://github.com/jupyter/notebook)
+The project's code is in the corresponding Jupyter Notebook called **_Housing_Corporation.ipynb_**.
 
 ## Goal of the project
 
