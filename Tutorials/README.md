@@ -1,0 +1,16 @@
+This folder contains all my tutorial's projects.
+
+# My First project
+
+This project is based on the first project in the famous book : *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition* by *Aurélien Géron* [link to the Github project](https://github.com/ageron/handson-ml2)
+
+This project allows me to do my first end-to-end Machine Learning (ML) project. 
+
+You can find all the data used for the project in the folder Data. 
+The project's code is in the corresponding Jupyter Notebook called **_Housing_Corporation.ipynb** (click here to see the [jupyter notebook project] (https://github.com/jupyter/notebook))
+
+## Topic
+
+The main goal of this project is to build a model than could help us to make prediction about the housing prices in California (based on data from the 1990 California Census). 
+
+
