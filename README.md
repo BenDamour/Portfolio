@@ -5,6 +5,7 @@ For now we have in the :
 
 * Kaggle Folder :
   * The basic Titanic competition with two notebooks: the first (V1.0) was a test and the second (V2.0) is a condensed one with optimisation in the data preparation (with pipeline and columntransformer).
+  * The Housing Prices competition: I use some EDA techniques, top 10% in the Leaderboard.
   
 * Machine Learning Folder:   
   Each notebooks concerns some famous dataset in ML.
